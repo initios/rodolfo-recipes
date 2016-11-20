@@ -42,6 +42,8 @@ Create a folder with your username and add there your recipe.
 Also to enable its tests add it to the end of recipes_spec like
 
 
+```ruby
 describe 'username/recipename' do
   it_behaves_like 'a recipe'
 end
+```
