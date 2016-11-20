@@ -1,5 +1,7 @@
 # Rodolfo Recipes
 
+[![Build Status](https://travis-ci.org/initios/rodolfo-recipes.svg?branch=master)](https://travis-ci.org/initios/rodolfo-recipes)
+
 A list of recipes to use with [Rodolfo](https://github.com/initios/rodolfo)
 
 
