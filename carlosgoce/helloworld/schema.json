@@ -1,0 +1,11 @@
+{
+    "id": "http://www.example.com/json-schema/v2/tpl/carlosgoce/helloworld",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "The Rodolfo Hello World recipe",
+    "properties": {
+        "msg": {
+            "type": "string"
+        }
+    },
+    "required": ["msg"]
+}
